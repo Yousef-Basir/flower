@@ -1,0 +1,155 @@
+body {
+    background-color: #222;
+    margin: 0;
+}
+
+#background {
+    width: 850px;
+    height: 100%;
+    background-color: #333;
+    margin: 0 auto;
+}
+
+#main {
+    display: inline-block;
+    width: 780px;
+    height: 98%;
+    background-color: #fff;
+    margin: 10px 35px;
+}
+
+#flower {
+    background-image: url(../images/pic1.jpg);
+    background-size: cover;
+    width: 750px;
+    height: 216px;
+    margin: 0 auto;
+}
+
+#a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: #fff;
+    padding-top: 35px;
+    padding-left: 10px;
+    line-height: 0.1px;
+}
+
+#b {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: medium;
+    color: #fff;
+    padding-left: 15px;
+    line-height: 0.1px;
+}
+
+#left {
+    width: 180px;
+    height: 490px;
+    margin-left: 15px;
+    margin-top: 20px;
+    float: left;
+    background-color: #cfdeff;
+}
+
+#right {
+    width: 540;
+    height: 590;
+    float: right;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+#down {
+    width: 96%;
+    height: 90px;
+    clear: both;
+    margin: 0 auto;
+}
+
+ul {
+    margin-top: -15px;
+    padding-left: 10px;
+    line-height: 23px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #738abe;
+}
+
+a:hover {
+    color: darkred;
+}
+
+#c {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    background-color: #6587e0;
+    color: #fff;
+    margin-top: 0;
+    padding-left: 10px;
+    line-height: 23px;
+}
+
+#d {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    background-color: #6587e0;
+    color: #fff;
+    margin-top: -5;
+    padding-left: 10px;
+    line-height: 23px;
+}
+
+#e {
+    color: #4875e6;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+}
+
+#f {
+    margin-top: -10px;
+    text-align: justify;
+}
+
+#g {
+    color: #738abe;
+}
+
+#pic2 {
+    width: 99%;
+    border: 2.5px solid #ccc;
+}
+
+#h {
+    text-align: justify;
+}
+
+#i {
+    color: #4875e6;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -5px;
+}
+
+p {
+    line-height: 1.5em;
+    color: #3e4e5e;
+}
+
+#line {
+    color: #ccc;
+}
+
+#j {
+    text-align: center;
+    margin-top: 26px;
+}
+
+.k {
+    color: #738abe;
+}
